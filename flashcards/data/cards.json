@@ -110,5 +110,29 @@
             "tag": "Logiske operatorer",
             "level": 1
         }
+                {
+            "front": "Hvilken værdi får man fra udtrykket 1001|1110 '!'?",
+            "back": "! 158.",
+            "tag": "Logiske operatorer",
+            "level": 1
+        }
+                        {
+            "front": "Hvilke forskellige værdier kan en int datatype have '!'?",
+            "back": "! -2,147,483,647 to 2,147,483,647.",
+            "tag": "Logiske operatorer",
+            "level": 1
+        }
+                                {
+            "front": "hvilken størrelse I bits har en double datatype '!'?",
+            "back": "! 64 bits.",
+            "tag": "Logiske operatorer",
+            "level": 1
+        }
+                                        {
+            "front": "Hvad er most significant bit? '!'?",
+            "back": "! den bit med den største value.",
+            "tag": "Logiske operatorer",
+            "level": 1
+        }
     ]
 }
